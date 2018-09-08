@@ -1,2 +1,2 @@
 # supreme-doodle
-study python language.
+The first repository on github
